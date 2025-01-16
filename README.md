@@ -13,7 +13,7 @@
     <li>🎓 <strong>Education:</strong> Diploma in Computer Engineering</li>
     <li>💼 <strong>Currently working on:</strong> Full Stack Web Development</li>
     <li>🎯 <strong>Interests:</strong> AI, ML, Android, Web Development</li>
-    <li>📫 <strong>How to reach me:</strong> kingprincepriyanshu1138@gmail.com, <a href="https://www.linkedin.com/in/priyanshu-7581932a8/">LinkedIn Profile</a></li>
+    <li>📫 <strong>How to reach me:</strong> kingprincepriyanshu1138@gmail.com, <a href="https://www.linkedin.com/in/priyanshu-7581932a8/">https://www.linkedin.com/in/priyanshu-7581932a8/</a></li>
   </ul>
 </section>
 
