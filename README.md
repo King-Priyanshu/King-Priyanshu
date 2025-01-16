@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/yourusername" target="_blank">[Your Name]</a></h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://github.com/King-Priyanshu
+King-Priyanshu" target="_blank">[PRIYANSHU]</a></h1>
 <h3 align="center">💻 Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
 <div align="center">
@@ -10,10 +11,9 @@
 <h2>About Me 🚀</h2>
 <ul>
   <li>🎓 <strong>Education:</strong> [Your Degree, Major, University/Institution]</li>
-  <li>💼 <strong>Currently working on:</strong> [Your Current Project/Job Title]</li>
-  <li>🌟 <strong>Skills:</strong> [Skill 1, Skill 2, Skill 3, etc.]</li>
-  <li>🎯 <strong>Interests:</strong> [Tech Topics, Hobbies, etc.]</li>
-  <li>📫 <strong>How to reach me:</strong> [Your Email Address, LinkedIn Profile, etc.]</li>
+  <li>💼 <strong>Currently working on:</strong> [full Stak WebDevlopment]</li>
+  <li>🎯 <strong>Interests:</strong> [ AI ,  ML , ANDROID  , WEB DEV]</li>
+  <li>📫 <strong>How to reach me:</strong> [kingprincepriyanshu1138@gmail.com, LinkedIn Profile, etc.]</li>
 </ul>
 
 ---
@@ -41,22 +41,20 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=King-Priyanshu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Priyanshu&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 <h2>🌐 Connect with Me</h2>
 <div>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://www.linkedin.com/in/priyanshu-7581932a8/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/King-Priyanshu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
