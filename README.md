@@ -4,7 +4,7 @@
 </header>
 
 <div class="banner">
-  <img src="https://via.placeholder.com/900x300.png?text=Welcome+to+My+Profile" alt="Profile Banner">
+  <img src="King-Priyanshu/github-header-image.png" alt="Profile Banner">
 </div>
 
 <section>
