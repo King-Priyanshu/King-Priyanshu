@@ -4,7 +4,7 @@
 </header>
 
 <div class="banner">
-  <img src="King-Priyanshu/github-header-image.png" alt="Profile Banner">
+  <img src="github-header-image.png" alt="Profile Banner">
 </div>
 
 <section>
