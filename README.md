@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** Diploma in Computer Engineering  
-- 💼 **Currently working on:** Full Stack Web Development  
+- 💼 **Currently Learning:** FLUTTER (CROSS PLATFORM APPLICATION DEVELOPMENT)
 - 🎯 **Interests:** AI, ML, Android, Web Development  
 - 📫 **Reach me at:**  
   - 📧 kingprincepriyanshu1138@gmail.com  
