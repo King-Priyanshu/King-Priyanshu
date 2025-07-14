@@ -52,9 +52,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=King-Priyanshu&show_icons=true&theme=radical)
 
 <!-- Uncomment if you have a public WakaTime profile -->
-<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=King-Priyanshu&layout=compact&theme=radical) -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=King-Priyanshu&layout=compact&theme=radical)
 
-> ⚠️ *If WakaTime isn't showing, make sure your profile is public and username is correct.*
 
 ---
 
