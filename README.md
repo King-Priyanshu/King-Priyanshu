@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=King-Priyanshu&show_icons=true&theme=radical)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=King-Priyanshu&layout=compact&theme=radical)
+<figure><embed src="https://wakatime.com/share/@17f1ac7b-7a15-4110-8452-2a100b3c7374/c002eada-474f-4ab9-9246-453035a2dd6a.svg"></embed></figure>
 
 ---
 
