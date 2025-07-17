@@ -31,6 +31,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,6 +49,19 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=King-Priyanshu&show_icons=true&theme=radical)
+
+---
+
+## 🟩 Contributions
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=King-Priyanshu&bg_color=1d1d1d&color=ffffff&line=00e5ff&point=ffffff&area=true&hide_border=true)
+
+---
+
+## ⌛ WakaTime Weekly Stats
+
+[![wakatime](https://wakatime.com/badge/user/17f1ac7b-7a15-4110-8452-2a100b3c7374.svg)](https://wakatime.com/@17f1ac7b-7a15-4110-8452-2a100b3c7374)
+
 <figure><embed src="https://wakatime.com/share/@17f1ac7b-7a15-4110-8452-2a100b3c7374/c002eada-474f-4ab9-9246-453035a2dd6a.svg"></embed></figure>
 
 ---
