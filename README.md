@@ -62,15 +62,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/17f1ac7b-7a15-4110-8452-2a100b3c7374.svg)](https://wakatime.com/@17f1ac7b-7a15-4110-8452-2a100b3c7374)
 
-<figure><embed src="https://wakatime.com/share/@17f1ac7b-7a15-4110-8452-2a100b3c7374/c002eada-474f-4ab9-9246-453035a2dd6a.svg"></embed></figure>
-
----
-
-## 🏆 Achievements
-
-- 🧠 Built an **AI Chatbot** using Flask & Ollama  
-- 💬 Created a real-time **MERN Chat App** called *Chatigram*  
-- 💡 Completed **50+ coding projects** during my diploma  
+<figure><embed src="https://wakatime.com/share/@17f1ac7b-7a15-4110-8452-2a100b3c7374/c002eada-474f-4ab9-9246-453035a2dd6a.svg"></embed></figure>  
 
 ---
 
